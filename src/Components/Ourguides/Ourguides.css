@@ -1,0 +1,39 @@
+.guides{
+    display: flex;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+h1 {
+    text-align: center;
+    letter-spacing: 3px;
+    color: rgb(0, 159, 156);
+    font-size: 36px;
+}
+.guide1{
+    width: 260px;
+    height: 400px;
+    background-color: rgb(0, 159, 156);
+    border-radius: 8px;
+    margin-left: 36px;
+}
+.guide1 img {
+    max-width: 80%;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.guide1 p {
+    margin-left: 20px;
+    margin-top: -2px;
+    font-weight: bold;
+    color: aliceblue;
+    font-size: 24px;
+}
+.socialmedia{
+    display: flex;
+}
+.socialmedia .icon {
+    margin-left: 20px;
+    margin-top: -10px;
+    color: aliceblue;
+}

@@ -1,0 +1,90 @@
+
+.signupform{
+    margin-left: 400px;
+    margin-top: 40px;
+    width: 500px;
+    height: 400px;
+    border-radius: 10px;
+    margin-bottom: 80px;
+}
+
+.signup-txt{
+    font-size: 22px;
+    font-weight: bold;
+    color: rgb(0, 159, 156);
+}
+.google{
+    width: 350px;
+    height: 30px;
+    background-color: transparent;
+    border: solid 1.5px rgb(0, 159, 156);
+    border-radius: 6px;
+}
+.google a {
+    color: rgb(0, 159, 156);
+    letter-spacing: 1px;
+    font-size: 14px;
+}
+.or-txt{
+    margin-left: 150px;
+    color: rgb(0, 159, 156);
+}
+.name{
+    display: flex;
+    margin-top: 5px;
+}
+.first{
+    width: 150px;
+    height: 30px;
+    background-color: transparent;
+    border: solid 1.5px rgb(0, 159, 156);
+    border-radius: 6px;
+}
+.last{
+    width: 150px;
+    height: 30px;
+    margin-left: 34px;
+    background-color: transparent;
+    border: solid 1.5px rgb(0, 159, 156);
+    border-radius: 6px;
+}
+.password{
+    width: 342px;
+    height: 30px;
+    margin-top: 20px;
+    background-color: transparent;
+    border: solid 1.5px rgb(0, 159, 156);
+    border-radius: 6px;
+}
+.confirm{
+    width: 342px;
+    height: 30px;
+    margin-top: 20px;
+    background-color: transparent;
+    border: solid 1.5px rgb(0, 159, 156);
+    border-radius: 6px;
+}
+.email2{
+    width: 342px;
+    height: 30px;
+    margin-top: 20px;
+    background-color: transparent;
+    border: solid 1.5px rgb(0, 159, 156);
+    border-radius: 6px;
+}
+.signup{
+    width: 350px;
+    height: 30px;
+    margin-top: 20px;
+    background-color: transparent;
+    border: solid 1.5px rgb(0, 159, 156);
+    border-radius: 6px;
+    font-size: 17px;
+    font-weight: bold;
+    color: rgb(0, 159, 156);
+}
+.signintxt{
+    font-size: 14px;
+    margin-left: 125px;
+    color: rgb(0, 159, 156);
+}

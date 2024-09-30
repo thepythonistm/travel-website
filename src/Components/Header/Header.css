@@ -1,0 +1,28 @@
+.header-items{
+    background-color: rgba(255, 255, 255, 0.685);
+    backdrop-filter: blur(10px);
+    max-width: 100%;
+    height: 140px;
+}
+.header-items ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: -40px;
+    margin-right: 40px;
+    
+}
+.header-items li {
+    list-style: none;
+    font-size: 18px;
+    font-weight: bold;
+}
+.header-items a {
+    text-decoration: none;
+    color:  rgb(4, 170, 167);
+
+}
+.header-items img {
+    max-width: 40%;
+    margin-top: -10px;
+}

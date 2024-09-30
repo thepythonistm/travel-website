@@ -1,0 +1,39 @@
+.footer-elm{
+    display: flex;
+    background-color: rgb(0, 159, 156);
+    height: 160px;
+    color: aliceblue;
+}
+.contact{
+    margin-left: 30px;
+
+}
+.footer-elm h1 {
+    font-size: 18px;
+    color: aliceblue;
+}
+.footer-elm h2 {
+    font-size: 18px;
+    color: aliceblue;
+}
+.footer-elm h3{
+    color: aliceblue;
+    font-size: 18px;
+}
+.trustedby{
+    margin-left: 100px;
+}
+.social-media{
+    margin-left: 200px;
+}
+.social-media a {
+    color: aliceblue;
+    margin-left:10px;
+}
+.payment{
+    margin-left: 200px;
+    color: aliceblue;
+}
+.payment .icons{
+    color: aliceblue;
+}

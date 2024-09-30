@@ -1,0 +1,61 @@
+.tetimonials{
+    margin-bottom: 100px;
+}
+.review-slider{
+    margin-left: 120px;
+}
+.review-slider img {
+    max-width: 30%;
+    border-radius: 50%;
+}
+.review-slider p {
+    width: 300px;
+}
+.review-head{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+.review-head h5 {
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(0, 159, 156);
+    margin-top: -8px;
+}
+.review-head p {
+    margin-top: -50px;
+    font-size: 18px;
+    
+}
+.review-head small {
+    font-weight: bold;
+    font-size: 20px;
+}
+.allreviews{
+    margin-top: 60px;
+}
+.head-buttons{
+    display: flex;
+}
+.button1{
+    width: 120px;
+    height: 30px;
+    margin-left: 300px;
+    margin-top: 60px;
+    background-color: transparent;
+    border: 1.5px solid rgb(0, 159, 156);
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.button2{
+    width: 160px;
+    height: 30px;
+    margin-top: 60px;
+    margin-left: 60px;
+    background-color: transparent;
+    border: 1.5px solid rgb(0, 159, 156);
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+
+}
