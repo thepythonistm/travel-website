@@ -1,6 +1,9 @@
 .tetimonials{
     margin-bottom: 100px;
 }
+.test-container{
+    margin-top: 40px;
+}
 .review-slider{
     margin-left: 120px;
 }
@@ -27,8 +30,8 @@
     
 }
 .review-head small {
-    font-weight: bold;
-    font-size: 20px;
+    font-size: 18px;
+    margin-top: -15px;
 }
 .allreviews{
     margin-top: 60px;

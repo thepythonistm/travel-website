@@ -1,6 +1,19 @@
-
+.signup-container{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    margin-bottom: 40px;
+}
+.signup-img{
+    width: 50%;
+    height: 100%;
+    background-image: url("../Signup/cfa64dfe957d54d3c4b5024f80cd98e9.jpg");
+    background-size: cover;
+    background-position: center;
+    border-radius: 40px;
+}
 .signupform{
-    margin-left: 400px;
+    margin-left: 100px;
     margin-top: 40px;
     width: 500px;
     height: 400px;
@@ -14,8 +27,8 @@
     color: rgb(0, 159, 156);
 }
 .google{
-    width: 350px;
-    height: 30px;
+    width: 267px;
+    height: 32px;
     background-color: transparent;
     border: solid 1.5px rgb(0, 159, 156);
     border-radius: 6px;
@@ -26,30 +39,21 @@
     font-size: 14px;
 }
 .or-txt{
-    margin-left: 150px;
+    margin-left: 115px;
     color: rgb(0, 159, 156);
 }
-.name{
-    display: flex;
-    margin-top: 5px;
-}
-.first{
-    width: 150px;
+
+.fullname{
+    width: 260px;
     height: 30px;
     background-color: transparent;
     border: solid 1.5px rgb(0, 159, 156);
     border-radius: 6px;
+    margin-top: 4px;
 }
-.last{
-    width: 150px;
-    height: 30px;
-    margin-left: 34px;
-    background-color: transparent;
-    border: solid 1.5px rgb(0, 159, 156);
-    border-radius: 6px;
-}
+
 .password{
-    width: 342px;
+    width: 260px;
     height: 30px;
     margin-top: 20px;
     background-color: transparent;
@@ -57,7 +61,7 @@
     border-radius: 6px;
 }
 .confirm{
-    width: 342px;
+    width: 260px;
     height: 30px;
     margin-top: 20px;
     background-color: transparent;
@@ -65,7 +69,7 @@
     border-radius: 6px;
 }
 .email2{
-    width: 342px;
+    width: 260px;
     height: 30px;
     margin-top: 20px;
     background-color: transparent;
@@ -73,8 +77,8 @@
     border-radius: 6px;
 }
 .signup{
-    width: 350px;
-    height: 30px;
+    width: 267px;
+    height: 32px;
     margin-top: 20px;
     background-color: transparent;
     border: solid 1.5px rgb(0, 159, 156);
@@ -84,7 +88,7 @@
     color: rgb(0, 159, 156);
 }
 .signintxt{
-    font-size: 14px;
-    margin-left: 125px;
+    font-size: 12px;
+    margin-left: 78px;
     color: rgb(0, 159, 156);
 }

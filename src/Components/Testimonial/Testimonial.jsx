@@ -6,6 +6,7 @@ import 'swiper/css/pagination';
 import './Testimonial.css';
 import { Navigation, Pagination } from 'swiper/modules';
 import { useNavigate } from "react-router-dom";
+import Header from "../Header/Header";
 
 const testimonials = [
     {id:1,image:"./Images/pexels-dima-valkov-1186343-3209624.jpg",name:"carla james",text:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum atque soluta unde itaque. Consequatur quam odit blanditiis harum veritatis porro."},
@@ -22,6 +23,9 @@ const Testimonial = () => {
     }
     return(
         <div className="tetimonials">
+            <Header/>
+
+            <div className="test-container">
             <div className="head-buttons">
                 <div className="review-head">
                     <small>Our Feedbacks</small>
@@ -61,6 +65,7 @@ const Testimonial = () => {
             </div>
 
 
+            </div>
 
         </div>
     )

@@ -4,6 +4,7 @@ import 'swiper/css';
 import 'swiper/css/navigation';
 import 'swiper/css/pagination';
 import "./Destination.css";
+import Header from "../Header/Header";
 
 import { Navigation, Pagination } from 'swiper/modules';
 
@@ -19,6 +20,7 @@ const items = [
 const Destination = () => {
     return (
         <div className="destinations">
+            <Header/>
             <div className="items-slider">
               <h1 className="slider-title">Discover Top Travel Spots</h1>
                 <Swiper

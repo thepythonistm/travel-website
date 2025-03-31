@@ -1,7 +1,7 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import './Service.css';
-
+import Header from "../Header/Header";
 const Service = () => {
     const navigate = useNavigate();
     const handleRes = () => {
@@ -15,6 +15,7 @@ const Service = () => {
     }
     return(
         <div className="service">
+            <Header/>
             <h1>Our Services</h1>
             <div className="services">
                 <div className="service1">
